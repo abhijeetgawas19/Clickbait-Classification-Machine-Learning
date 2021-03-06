@@ -14,9 +14,9 @@ Often we get bombarded with these non-relevant ads/pop ups whenever we try to ac
 
 3.	In this dataset, binary categories are
 
-a.	0  Not Clickbait Headline
+    a.	0  Not Clickbait Headline
 
-b.	1  Its Clickbait Headline
+    b.	1  Its Clickbait Headline
 
 Dataset Link: https://www.kaggle.com/amananandrai/clickbait-dataset
 
@@ -72,4 +72,4 @@ Dataset Link: https://www.kaggle.com/amananandrai/clickbait-dataset
 
 5. Problem Domain: Natural Language Processing
 
-6.Problem Type: Binary Categorical Classification (Supervised Learning) 
+6. Problem Type: Binary Categorical Classification (Supervised Learning) 
