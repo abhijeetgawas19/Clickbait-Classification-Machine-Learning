@@ -60,7 +60,7 @@ Dataset Link: https://www.kaggle.com/amananandrai/clickbait-dataset
     
     c. Confusion Matrix.
 
-## Tools/Technologies/Algorithms**
+## Tools/Technologies/Algorithms
 
 1. Front-End: Python Programming Language
 
