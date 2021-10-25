@@ -6,6 +6,10 @@ Clickbait is content that is posted on the websites and whose main goal is to en
 This clickbait can have some downfalls as well, anonymous people can use clickbait to give misleading information about the products of the company and can ultimately damage the overall brand status and can lead to companies losing their customers. Clickbait constructively used for getting more views on the pages. More people clicking on an advertisement and sharing them to various social media platforms ultimately achieve the main objective of the companies, that their product is reached to a more and more potential customer but ultimately destructively it is used to mislead the people about the product.
 Often we get bombarded with these non-relevant ads/pop ups whenever we try to access a particular webpage or whenever we are surfing on the browser. The content whose main purpose is to attract attention and encourage visitors to click on a link/image to a particular web page in order to generate advertising revenues.This model identifies the text of advertisements/pop-ups or hyperlinks like this of sorts whether it is spam/malicious or not.
 
+## Project Deployment Link
+https://clickbaitclassification.herokuapp.com/
+
+
 ## Cover Points
 
 1.	The problem is binary classification whether the text data is clickbait or not
